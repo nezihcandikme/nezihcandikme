@@ -1,6 +1,6 @@
 ### hi, i'm nezih
 
-high school student at robert college, istanbul. i work on computational biology and machine learning, mostly around one question: when can you trust a result?
+high school student at robert college, istanbul. i work on computational biology and machine learning,
 
 **projects**
 
@@ -9,7 +9,7 @@ high school student at robert college, istanbul. i work on computational biology
 **now**
 
 - scientific collaborator at firalis (biomedical data science)
-- writing a small gpt from scratch to understand how language models work
+
 
 **elsewhere**
 
